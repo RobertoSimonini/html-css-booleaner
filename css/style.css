@@ -1,0 +1,12 @@
+body {
+    margin: auto 10%;
+}
+
+#logo {
+height: 100px;
+position: center;
+}
+
+#container {
+    text-align: center;
+}
