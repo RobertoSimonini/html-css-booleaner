@@ -1,5 +1,5 @@
 body {
-    margin: auto 10%;
+    margin: auto 20%;
 }
 
 #logo {
@@ -9,4 +9,16 @@ position: center;
 
 #container {
     text-align: center;
+}
+
+h1 {
+    font-size:
+}
+
+#credits {
+    margin-top: 0;
+}
+ 
+#author {
+    color:#0000ff78;
 }
