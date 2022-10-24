@@ -1,5 +1,5 @@
 body {
-    margin: auto 20%;
+    margin: auto 22.5%;
 }
 
 #logo {
@@ -21,4 +21,8 @@ h1 {
  
 #author {
     color:#0000ff78;
+}
+
+.legenda {
+    font-size: 12px;
 }
