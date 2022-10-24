@@ -26,3 +26,7 @@ h1 {
 .legenda {
     font-size: 12px;
 }
+
+#list {
+    margin-left: -25px;
+}
