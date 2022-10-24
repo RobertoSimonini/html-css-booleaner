@@ -30,3 +30,15 @@ h1 {
 #list {
     margin-left: -25px;
 }
+
+.Highlighter {
+    background-color: #fbff00;
+}
+
+#items {
+    padding-bottom: 10px;
+}
+
+#titles-container {
+background-color: aqua;
+}
