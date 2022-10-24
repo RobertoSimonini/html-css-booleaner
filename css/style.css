@@ -39,6 +39,14 @@ h1 {
     padding-bottom: 10px;
 }
 
-#titles-container {
-background-color: aqua;
+section {
+    background-color: aqua;
+}
+
+#last-paragraph {
+    padding-top: 20px;
+}
+
+#suggests {
+    color: grey;
 }
