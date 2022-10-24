@@ -50,3 +50,14 @@ section {
 #suggests {
     color: grey;
 }
+
+#photo-reccomends {
+    width: 250px;
+    height: 200px;
+    background-image: url("../img/monitor.jpg");
+    background-repeat: none;
+    margin-bottom: 10px;
+    color: white;
+    
+    
+}
