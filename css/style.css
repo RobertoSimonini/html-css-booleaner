@@ -28,7 +28,8 @@ h1 {
 }
 
 #list {
-    margin-left: -25px;
+margin: 0;
+padding: 10px;
 }
 
 .Highlighter {
@@ -40,8 +41,7 @@ h1 {
 }
 
 table {
-    border: none;
-    min-width: 800px;
+    border-collapse: collapse;
 }
 
 thead {
