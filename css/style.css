@@ -40,10 +40,11 @@ h1 {
     font-size: 12px;
 }
 
-#list {
+.list {
 margin: 0;
 padding: 0;
 list-style-position: inside;
+margin: 20px 0;
 }
 
 .Highlighter {
