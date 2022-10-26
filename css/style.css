@@ -9,17 +9,20 @@ body {
 
 }
 
-#container {
+figure {
     height: 100px;
     background-color: #03a9f4;
     line-height: 100px;
     vertical-align: middle;
     background-image: url('../img/pattern.png');
     background-size: 200px;
+    margin: 0;
+       
+}   
     
 
 
-}
+
 
 h1 {
     font-size:
