@@ -56,14 +56,14 @@ table {
 }
 
 thead {
-    background-color: rgba(0, 110, 255, 0.418);
+    background-color: #25a7e4;
     
 
     color: white;
 }
 
 .blue-line {
-    background-color: rgb(67, 122, 139);
+    background-color: #afe4f1;
     height: 50px;
 }
 #test {
